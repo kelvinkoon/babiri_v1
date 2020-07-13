@@ -10,6 +10,8 @@ The website has had over 60,000 users since launch. It has also been featured on
 
 babiri.net was made to gain insight on daily Pokémon Showdown usage for VGC and OU formats using public replays from the server. The application also provides the percentage of teams that specific Pokémon are featured on, as well as their usage over time through data visualization.
 
+This repository hosts the open-source version of the web application portion. It is a snapshot of the website prior to the OU format addition. As such, security details such as DB connection strings are omitted.
+
 !["VGC Usage Page"](./img/vgc_usage.JPG)
 
 ## Getting Started
