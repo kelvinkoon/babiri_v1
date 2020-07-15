@@ -85,3 +85,7 @@ Ex. `/api/usage?pokemon=Excadrill` returns the usage stats of [Excadrill](https:
 - [Pokémon Showdown](https://pokemonshowdown.com/)
 - [Pikalytics](https://pikalytics.com/)
 - [VGC Stats](https://vgcstats.com/#/)
+
+## License
+
+This project is licensed under the terms of the **MIT** license.
