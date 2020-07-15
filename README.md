@@ -1,10 +1,14 @@
 # babiri.net
 
-[babiri.net](https://www.babiri.net/#/) is a Pokémon stats aggregation and visualization website for competitive VGC and OU players.
+babiri.net is a Pokémon stats aggregation and visualization website for competitive VGC and OU players.
 
 The website has had over 60,000 users since launch. It has also been featured on [Pokésports Podcast](https://www.youtube.com/watch?v=ZYbqsDLq994). 
 
 !["VGC Teams Page"](./img/vgc_teams.JPG)
+
+## Demo
+
+The live demo can be found [here](https://www.babiri.net/#/).
 
 ## About
 
@@ -63,7 +67,7 @@ Ex. `/api/usage?pokemon=Excadrill` returns the usage stats of [Excadrill](https:
 ## Built With
 
 *Web Application*
-- React (Chart.js)
+- React (Bootstrap/Chart.js)
 - Node
 - MongoDB
 - Express
