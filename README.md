@@ -32,6 +32,8 @@ Please ensure you have Node.js installed, which can be downloaded [here](https:/
 
 All requests are made using the `GET` method. Both VGC and OU formats follow the same endpoint structure.
 
+VGC uses the `/api/teams` and `/api/usage` endpoints while OU uses `/api/teamsou` and `/api/usageou` endpoints.
+
 ### Teams
 
 `/api/teams`: Return the most recent recorded teams.
