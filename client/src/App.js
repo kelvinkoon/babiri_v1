@@ -11,7 +11,7 @@ import Usage from "./components/pages/Usage";
 import About from "./components/pages/About";
 
 function initializeReactGA() {
-  ReactGA.initialize("UA-158516768-1");
+  ReactGA.initialize(GA_TOKEN_HERE);
   ReactGA.pageview("/");
 }
 
